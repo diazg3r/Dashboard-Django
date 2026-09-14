@@ -14,4 +14,6 @@ What's here
 
 
 Stack
+
+
 Django 6.x · PostgreSQL · Chart.js (CDN) · Django Admin
